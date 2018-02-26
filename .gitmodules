@@ -76,3 +76,9 @@
 [submodule "dev-system"]
 	path = dev-system
 	url = git@github.com:nasa-cmr/dev-system.git
+[submodule "search-relevancy-test"]
+	path = search-relevancy-test
+	url = git@github.com:nasa-cmr/search-relevancy-test.git
+[submodule "system-int-test"]
+	path = system-int-test
+	url = git@github.com:nasa-cmr/system-int-test.git
