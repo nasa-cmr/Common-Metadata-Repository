@@ -1,0 +1,39 @@
+[submodule "bin"]
+	path = bin
+	url = git@github.com:nasa-cmr/cli.git
+[submodule "collection-renderer-lib"]
+	path = collection-renderer-lib
+	url = git@github.com:nasa-cmr/collection-renderer-lib.git
+[submodule "orbits-lib"]
+	path = orbits-lib
+	url = git@github.com:nasa-cmr/orbits-lib.git
+[submodule "oracle-lib"]
+	path = oracle-lib
+	url = git@github.com:nasa-cmr/oracle-lib.git
+[submodule "elastic-utils-lib"]
+	path = elastic-utils-lib
+	url = git@github.com:nasa-cmr/elastic-utils-lib.git
+[submodule "common-app-lib"]
+	path = common-app-lib
+	url = git@github.com:nasa-cmr/common-app-lib.git
+[submodule "message-queue-lib"]
+	path = message-queue-lib
+	url = git@github.com:nasa-cmr/message-queue-lib.git
+[submodule "acl-lib"]
+	path = acl-lib
+	url = git@github.com:nasa-cmr/acl-lib.git
+[submodule "spatial-lib"]
+	path = spatial-lib
+	url = git@github.com:nasa-cmr/spatial-lib.git
+[submodule "umm-spec-lib"]
+	path = umm-spec-lib
+	url = git@github.com:nasa-cmr/umm-spec-lib.git
+[submodule "common-lib"]
+	path = common-lib
+	url = git@github.com:nasa-cmr/common-lib.git
+[submodule "transmit-lib"]
+	path = transmit-lib
+	url = git@github.com:nasa-cmr/transmit-lib.git
+[submodule "umm-lib"]
+	path = umm-lib
+	url = git@github.com:nasa-cmr/umm-lib.git
