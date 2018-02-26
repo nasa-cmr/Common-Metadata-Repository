@@ -37,3 +37,42 @@
 [submodule "umm-lib"]
 	path = umm-lib
 	url = git@github.com:nasa-cmr/umm-lib.git
+[submodule "index-set-app"]
+	path = index-set-app
+	url = git@github.com:nasa-cmr/index-set.git
+[submodule "mock-echo-app"]
+	path = mock-echo-app
+	url = git@github.com:nasa-cmr/mock-echo.git
+[submodule "cubby-app"]
+	path = cubby-app
+	url = git@github.com:nasa-cmr/cubby.git
+[submodule "metadata-db-app"]
+	path = metadata-db-app
+	url = git@github.com:nasa-cmr/metadata-db.git
+[submodule "indexer-app"]
+	path = indexer-app
+	url = git@github.com:nasa-cmr/indexer.git
+[submodule "virtual-product-app"]
+	path = virtual-product-app
+	url = git@github.com:nasa-cmr/virtual-product.git
+[submodule "access-control-app"]
+	path = access-control-app
+	url = git@github.com:nasa-cmr/access-control.git
+[submodule "ingest-app"]
+	path = ingest-app
+	url = git@github.com:nasa-cmr/ingest.git
+[submodule "bootstrap-app"]
+	path = bootstrap-app
+	url = git@github.com:nasa-cmr/bootstrap.git
+[submodule "search-app"]
+	path = search-app
+	url = git@github.com:nasa-cmr/search.git
+[submodule "es-spatial-plugin"]
+	path = es-spatial-plugin
+	url = git@github.com:nasa-cmr/es-spatial-plugin.git
+[submodule "vdd-spatial-viz"]
+	path = vdd-spatial-viz
+	url = git@github.com:nasa-cmr/vdd-spatial-viz.git
+[submodule "dev-system"]
+	path = dev-system
+	url = git@github.com:nasa-cmr/dev-system.git
